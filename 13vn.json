@@ -113,12 +113,52 @@
       "price": "3,200,000 đ"
     },
     {
+      "model": "Z Flip ",
+      "stock": "android 12",
+      "custom": "",
+      "configuration": "8+256",
+      "processor": "Snapdragon 855+",
+      "price": "3,000,000 đ"
+    },
+    {
+      "model": "Z Flip 2",
+      "stock": "android 12",
+      "custom": "",
+      "configuration": "8+256",
+      "processor": "Snapdragon 855+",
+      "price": "3,200,000 đ"
+    },
+    {
       "model": "S10",
       "stock": "android 12",
       "custom": "android 13",
       "configuration": "6/8+128",
       "processor": "Exynos 9820",
       "price": "3,200,000 đ"
+    },
+    {
+      "model": "Z Flip 3",
+      "stock": "android 14",
+      "custom": "",
+      "configuration": "8+128",
+      "processor": "Snapdragon 888",
+      "price": "3,400,000 đ"
+    },
+    {
+      "model": "S20",
+      "stock": "android 13",
+      "custom": "",
+      "configuration": "8+128",
+      "processor": "Snapdragon 865",
+      "price": "3,800,000 đ"
+    },
+    {
+      "model": "S20+",
+      "stock": "android 13",
+      "custom": "",
+      "configuration": "8+128",
+      "processor": "Snapdragon 865",
+      "price": "4,000,000 đ"
     }
   ],
   "PC": [
