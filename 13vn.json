@@ -1,16 +1,8 @@
 {
   "BoxPhone": [
     {
-      "model": "J6",
-      "stock": "android 10",
-      "custom": "android 11",
-      "configuration": "4+32",
-      "processor": "Exynos 7870",
-      "price": "1,200,000 đ"
-    },
-    {
       "model": "J7Pro",
-      "stock": "android 9.0",
+      "stock": "Android 9.0",
       "custom": "",
       "configuration": "2+16",
       "processor": "Exynos 7870",
@@ -18,23 +10,31 @@
     },
     {
       "model": "A6",
-      "stock": "android 10",
-      "custom": "android 11",
+      "stock": "Android 10",
+      "custom": "Android 11",
       "configuration": "4+32",
       "processor": "Exynos 7870",
       "price": "1,200,000 đ"
     },
     {
       "model": "A7",
-      "stock": "android 8.0",
-      "custom": "android 11",
+      "stock": "Android 8.0",
+      "custom": "Android 11",
       "configuration": "4/6+64",
       "processor": "Exynos 7880",
       "price": "1,200,000 đ"
     },
+     {
+      "model": "A6+",
+      "stock": "Android 10",
+      "custom": "Android 11",
+      "configuration": "3/4+64",
+      "processor": "Snapdragon 450",
+      "price": "1,500,000 đ"
+    },
     {
       "model": "A8",
-      "stock": "android 9.0",
+      "stock": "Android 9.0",
       "custom": "",
       "configuration": "4+32",
       "processor": "Exynos 7885",
@@ -42,23 +42,23 @@
     },
     {
       "model": "S7",
-      "stock": "android 8.0",
-      "custom": "android 11",
+      "stock": "Android 8.0",
+      "custom": "Android 11",
       "configuration": "4+32",
       "processor": "Exynos 8890",
       "price": "1,500,000 đ"
     },
     {
-      "model": "Note 5",
-      "stock": "android 7",
-      "custom": "",
-      "configuration": "4+32",
-      "processor": "Exynos 7420",
+      "model": "J8",
+      "stock": "Android 10",
+      "custom": "Android 11",
+      "configuration": "3/4+32",
+      "processor": "Snapdragon 450",
       "price": "1,500,000 đ"
     },
     {
       "model": "S8U",
-      "stock": "android 9.0",
+      "stock": "Android 9.0",
       "custom": "",
       "configuration": "4+64",
       "processor": "Snapdragon 835",
@@ -66,15 +66,15 @@
     },
     {
       "model": "S8/S8+",
-      "stock": "android 9.0",
-      "custom": "android 11",
+      "stock": "Android 9.0",
+      "custom": "Android 11",
       "configuration": "4/6+64",
       "processor": "Exynos 8895",
       "price": "2,000,000 đ"
     },
     {
       "model": "Note 8U",
-      "stock": "android 9.0",
+      "stock": "Android 9.0",
       "custom": "",
       "configuration": "6+64",
       "processor": "Snapdragon 835",
@@ -82,39 +82,39 @@
     },
     {
       "model": "Note 8",
-      "stock": "android 9.0",
-      "custom": "android 11",
+      "stock": "Android 9.0",
+      "custom": "Android 11",
       "configuration": "6+64",
       "processor": "Exynos 8895",
       "price": "2,300,000 đ"
     },
     {
       "model": "S9+",
-      "stock": "android 10",
-      "custom": "android 11",
+      "stock": "Android 10",
+      "custom": "Android 11",
       "configuration": "4/6+64",
       "processor": "Snapdragon 845",
       "price": "2,600,000 đ"
     },
     {
       "model": "Note 9",
-      "stock": "android 10",
-      "custom": "android 11",
+      "stock": "Android 10",
+      "custom": "Android 11",
       "configuration": "6/8+128",
       "processor": "Exynos 9810",
       "price": "2,600,000 đ"
     },
     {
       "model": "Note 10",
-      "stock": "android 10",
-      "custom": "android 13",
+      "stock": "Android 10",
+      "custom": "Android 13",
       "configuration": "8+256",
       "processor": "Exynos 9825",
       "price": "3,200,000 đ"
     },
     {
       "model": "Z Flip ",
-      "stock": "android 12",
+      "stock": "Android 12",
       "custom": "",
       "configuration": "8+256",
       "processor": "Snapdragon 855+",
@@ -122,7 +122,7 @@
     },
     {
       "model": "Z Flip 2",
-      "stock": "android 12",
+      "stock": "Android 12",
       "custom": "",
       "configuration": "8+256",
       "processor": "Snapdragon 855+",
@@ -130,15 +130,15 @@
     },
     {
       "model": "S10",
-      "stock": "android 12",
-      "custom": "android 13",
+      "stock": "Android 12",
+      "custom": "Android 13",
       "configuration": "6/8+128",
       "processor": "Exynos 9820",
       "price": "3,200,000 đ"
     },
     {
       "model": "Z Flip 3",
-      "stock": "android 14",
+      "stock": "Android 14",
       "custom": "",
       "configuration": "8+128",
       "processor": "Snapdragon 888",
@@ -146,7 +146,7 @@
     },
     {
       "model": "S20",
-      "stock": "android 13",
+      "stock": "Android 13",
       "custom": "",
       "configuration": "8+128",
       "processor": "Snapdragon 865",
@@ -154,7 +154,7 @@
     },
     {
       "model": "S20+",
-      "stock": "android 13",
+      "stock": "Android 13",
       "custom": "",
       "configuration": "8+128",
       "processor": "Snapdragon 865",
@@ -164,19 +164,19 @@
   "PC": [
     {
       "model": "PC DUAL 2682v4",
-      "configuration": "Ram: 96Gb SSD: 1000GD Ethernet: 1GB",
+      "configuration": "Ram: 96Gb, SSD: 1000GD, Ethernet: 1GB",
       "price": "2,500,000 đ"
     },
     {
       "model": "PC Core I5-4x",
-      "configuration": "RAM: 4 SSD: 128 VGA: on board (Dùng từ 2 Box)",
+      "configuration": "RAM: 4, SSD: 128, VGA: on board (Dùng từ 2 Box)",
       "price": "700,000 đ"
     }
   ],
   "VPS": [
     {
       "model": "VPS CPU 2680v4",
-      "configuration": "2core 4theard RAM: 8GB SSD: 80GD Ethernet: 100mb",
+      "configuration": "2core 4theard, RAM: 8GB, SSD: 80GD, Ethernet: 100mb",
       "price": "500,000 đ"
     }
   ]
