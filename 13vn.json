@@ -162,22 +162,20 @@
     }
   ],
   "PC": [
-    {
-      "model": "PC DUAL 2682v4",
-      "configuration": "Ram: 96Gb, SSD: 1000GD, Ethernet: 1GB",
-      "price": "2,500,000 đ"
+     {
+      "model": "VPS CPU 2680v4",
+      "configuration": "2core 4theard, RAM: 8GB, SSD: 80GD, Ethernet: 100mb (Dùng tối đa 1 box)",
+      "price": "500,000 đ"
     },
     {
       "model": "PC Core I5-4x",
       "configuration": "RAM: 4, SSD: 128, VGA: on board (Dùng từ 2 Box)",
       "price": "700,000 đ"
+    },
+    {
+      "model": "PC DUAL 2682v4",
+      "configuration": "Ram: 96Gb, SSD: 1000GD, Ethernet: 1GB (Dùng tối đa 6 box)",
+      "price": "2,500,000 đ"
     }
   ],
-  "VPS": [
-    {
-      "model": "VPS CPU 2680v4",
-      "configuration": "2core 4theard, RAM: 8GB, SSD: 80GD, Ethernet: 100mb",
-      "price": "500,000 đ"
-    }
-  ]
 }
