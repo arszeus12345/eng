@@ -1,18 +1,10 @@
 {
   "BoxPhone": [
     {
-      "model": "J7Pro",
-      "stock": "Android 9.0",
-      "custom": "",
-      "configuration": "2+16",
-      "processor": "Exynos 7870",
-      "price": "1,200,000 đ"
-    },
-    {
       "model": "A6",
       "stock": "Android 10",
       "custom": "Android 11",
-      "configuration": "4+32",
+      "configuration": "3+32",
       "processor": "Exynos 7870",
       "price": "1,200,000 đ"
     },
@@ -20,7 +12,7 @@
       "model": "A7",
       "stock": "Android 8.0",
       "custom": "Android 11",
-      "configuration": "4/6+64",
+      "configuration": "3+32",
       "processor": "Exynos 7880",
       "price": "1,200,000 đ"
     },
@@ -28,7 +20,7 @@
       "model": "A6+",
       "stock": "Android 10",
       "custom": "Android 11",
-      "configuration": "3/4+64",
+      "configuration": "3+32",
       "processor": "Snapdragon 450",
       "price": "1,500,000 đ"
     },
