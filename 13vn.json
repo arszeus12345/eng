@@ -97,20 +97,20 @@
       "price": "2,600,000 đ"
     },
     {
-      "model": "Note 10",
-      "stock": "Android 10",
-      "custom": "Android 13",
-      "configuration": "8+256",
-      "processor": "Exynos 9825",
-      "price": "3,200,000 đ"
-    },
-    {
       "model": "Z Flip ",
       "stock": "Android 12",
       "custom": "",
       "configuration": "8+256",
       "processor": "Snapdragon 855+",
       "price": "3,000,000 đ"
+    },
+    {
+      "model": "Note 10",
+      "stock": "Android 10",
+      "custom": "Android 13",
+      "configuration": "8+256",
+      "processor": "Exynos 9825",
+      "price": "3,200,000 đ"
     },
     {
       "model": "Z Flip 2",
