@@ -1,21 +1,5 @@
 {
   "BoxPhone": [
-    {
-      "model": "A6",
-      "stock": "Android 10",
-      "custom": "Android 11",
-      "configuration": "3+32",
-      "processor": "Exynos 7870",
-      "price": "1,200,000 đ"
-    },
-    {
-      "model": "A7",
-      "stock": "Android 8.0",
-      "custom": "Android 11",
-      "configuration": "3+32",
-      "processor": "Exynos 7880",
-      "price": "1,200,000 đ"
-    },
      {
       "model": "A6+",
       "stock": "Android 10",
